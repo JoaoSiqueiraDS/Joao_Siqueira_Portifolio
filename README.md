@@ -15,8 +15,10 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Data Science, Python, CFD, Hypersoncis, Compressible flows.
 
 **Links:**
-* [LinkedIn](linkedin.com/in/joão-vitor-marques-267686136)
+* [LinkedIn](linkedin.com/in/joão-siqueira-485b411a7 )
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
+* EDA - San Francisco Rental Market analysis based on Airbnb data
+* EDA - Rio de Janeiro Violence Scenario
