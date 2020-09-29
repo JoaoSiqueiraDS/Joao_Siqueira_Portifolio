@@ -1,10 +1,10 @@
-[![author](https://img.shields.io/badge/author-JoaoVitorMarques-red.svg)](linkedin.com/in/joão-vitor-marques-267686136) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JoaoVitorMarques14)
+[![author](https://img.shields.io/badge/author-JoaoVitorMarques-red.svg)](https://www.linkedin.com/in/joão-siqueira-485b411a7) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JoaoSiqueiraDS/Joao_Siqueira_Portifolio)
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
-# João Vitor Marques
+# João Vitor Siqueira
 <sub>*Aeronautical Engineer and Data Science Student*</sub>
 
 
@@ -15,8 +15,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Data Science, Python, CFD, Hypersoncis, Compressible flows.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/joão-siqueira-485b411a7 )
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/joão-siqueira-485b411a7)
 
 
 ## Projects:
