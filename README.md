@@ -19,5 +19,6 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 
 ## Projects:
-* EDA - San Francisco Rental Market analysis based on Airbnb data
+* [EDA - San Francisco Rental Market analysis based on Airbnb data]
 * EDA - Rio de Janeiro Violence Scenario
+* [EDA - Analyzing Covid-19 through Pandas and Matplotlib](https://colab.research.google.com/github/JoaoSiqueiraDS/Joao_Siqueira_Portifolio/blob/master/Analysis_of_COVID-19_scenario.ipynb#scrollTo=7QAAV57N820T)
