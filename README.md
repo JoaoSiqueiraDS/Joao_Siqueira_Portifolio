@@ -15,7 +15,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Data Science, Python, CFD, Hypersoncis, Compressible flows.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/joão-siqueira-485b411a7)
+* [LinkedIn](https://www.linkedin.com/in/joao-siqueira-485b411a7)
 * [Medium](https://medium.com/@joaovitormarques22)
 
 
