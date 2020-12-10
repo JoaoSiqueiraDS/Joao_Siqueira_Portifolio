@@ -16,6 +16,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joão-siqueira-485b411a7)
+* [Medium](https://medium.com/@joaovitormarques22)
 
 
 ## Projects:
