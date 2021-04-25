@@ -12,7 +12,7 @@ Aeronautical engineer and Phd student (ITA) in the computational simulation fiel
 
 My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and an aeronautical engineering degree. 
 
-**Background in:** Data Science, Python, CFD, Hypersoncis, Compressible flows.
+**Background in:** Data Science, Python, CFD, Hypersonics, Compressible flows.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joao-siqueira-485b411a7)
